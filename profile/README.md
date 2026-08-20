@@ -17,4 +17,4 @@
 ---
 
 ## about
-Một tổ hợp các linh kiện không tương thích, vận hành bằng niềm tin của bạn và được duy trì bởi những dòng code spaghetti lằng nhắng. Một tổ đội mà ở đó: CPU chuyên đi lạc, RAM chỉ nhớ những thứ vô dụng và quên mất deadline, và bộ nguồn thì liên tục tỏa ra năng lượng xui xẻo. Bọn tôi không giải quyết vấn đề, bọn tôi chỉ biến chúng thành những tính năng (features) rắc rối hơn.
+LumineHQ (formerly LumineFederation) was founded on July 2, 2025. Following the "NTMGeconomy bug" incident, the project transitioned from a two-person team to being solely maintained by a single developer.
