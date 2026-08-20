@@ -18,3 +18,5 @@
 
 ## about
 LumineHQ (formerly LumineFederation) was founded on July 2, 2025. Following the "NTMGeconomy bug" incident, the project transitioned from a two-person team to being solely maintained by a single developer.
+
+https://gitlab.com/luminehq
